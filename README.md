@@ -1,4 +1,4 @@
-# :rocket: Udacity Udagram Image Filter (Project2)
+# :rocket: Udacity Udagram Image Filter (Project2) ![Project Review](https://img.shields.io/badge/Review-PASSED-greensvg)
 
 Simple filter API used to resize and apply grayscale filter on images, made by Udacity's community for Cloud compute advanced track.
 
