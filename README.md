@@ -120,8 +120,8 @@ unsafe-perm=true
 - :link: Running on : [AWS EB/EC2 Link](http://udagram-api.eba-wsgpqwxv.us-east-1.elasticbeanstalk.com/)
 
 
-- :camera: EB Health : Using cli running command -> `eb health` ![EB Health](https://img.shields.io/badge/EB%20Health-%20OK-greensvg)
+- :camera: Elasticbeanstalk status : Using cli running commands -> `eb status` & `eb health` ![EB Status](https://img.shields.io/badge/EB%20Health-%20OK-greensvg)
 
-![image](https://user-images.githubusercontent.com/76433966/207695792-49181440-de1b-4de6-ae9d-174fd1c54998.png)
+![Status](https://user-images.githubusercontent.com/76433966/207695792-49181440-de1b-4de6-ae9d-174fd1c54998.png)
 
-![image](https://user-images.githubusercontent.com/76433966/207643700-f5620bc5-1392-48cb-9e90-aba89060b8fa.png)
+![Health](https://user-images.githubusercontent.com/76433966/207643700-f5620bc5-1392-48cb-9e90-aba89060b8fa.png)
