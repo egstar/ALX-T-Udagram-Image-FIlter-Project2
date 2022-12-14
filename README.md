@@ -1,4 +1,4 @@
-# :rocket: ALX-T-Udagram-Image-Filter-Project2
+# :rocket: Udacity Udagram Image Filter (Project2)
 
 Simple filter API used to resize and apply grayscale filter on images, made by Udacity's community for Cloud compute advanced track.
 
@@ -117,7 +117,7 @@ unsafe-perm=true
 
 ### :link: Project Link & Screenshot :camera:
 
-- :link: Running on : [AWS S3 Link](http://udagram-api.eba-wsgpqwxv.us-east-1.elasticbeanstalk.com/)
+- :link: Running on : [AWS EB/EC2 Link](http://udagram-api.eba-wsgpqwxv.us-east-1.elasticbeanstalk.com/)
 
 
 - :camera: EB Health : Using cli running command -> `eb health` ![EB Health](https://img.shields.io/badge/EB%20Health-%20OK-greensvg)
